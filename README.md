@@ -1,12 +1,5 @@
 <h6 align="center">Hi 👋! I'm <b>Sanu Shifan</b>, a passionate MERN Stack Developer with a love for creating modern, scalable, and responsive web applications 🚀</h6>
 
-###
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E72&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;AWS+%26+Nginx+Deployment;Always+Learning+New+Technologies!)](https://git.io/typing-svg)
-  
-</div>
 
 ###
 
