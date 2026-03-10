@@ -1,4 +1,4 @@
-<h6 align="center">Hi 👋! I'm <b>Sanu Shifan</b>, a passionate MERN Stack Developer with a love for creating modern, scalable, and responsive web applications 🚀</h6>
+<h6 align="center">Hi 👋! I'm <b>Sanu Shifan</b>, a passionate MERN Stack Developer with a love for creating modern, scalable, and responsive web applications 🚀 </h6>
 
 
 ###
